@@ -1,0 +1,9 @@
+label {
+    background-color: powderblue;
+    transition: background-color .5s;
+  }
+  
+  label:hover {
+    background-color: gold;
+    transition: background-color .5s;
+  }
